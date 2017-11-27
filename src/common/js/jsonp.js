@@ -27,15 +27,3 @@ function param(data) {
   // 如果不为空，则第一个'&'删去
   return url ? url.substring(1) : ''
 }
-
-
-
-
-
-
-
-
-
-
-
-
